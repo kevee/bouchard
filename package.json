@@ -1,0 +1,18 @@
+{
+  "name": "bouchard",
+  "description": "Screen scraper to make public meeting data in Monterey County, CA not so hard to find.",
+  "version": "2.1.0",
+  "engines": {
+    "node": ">= 0.10.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kevee/bouchard.git"
+  },
+  "dependencies": {
+    "request": "~2.33.0",
+    "cheerio": "~0.13.1",
+    "pdf-extract": "~1.0.6",
+    "feedparser": "~0.16.6"
+  }
+}
