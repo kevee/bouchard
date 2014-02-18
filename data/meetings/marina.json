@@ -1,0 +1,47 @@
+[
+    {
+        "city": {
+            "city": "Marina",
+            "zip": "93933"
+        },
+        "title": "City Council Meeting",
+        "date": "2014-02-20T01:30:00.000Z",
+        "url": "http://www.ci.marina.ca.us/Calendar.aspx?EID=1513"
+    },
+    {
+        "city": {
+            "city": "Marina",
+            "zip": "93933"
+        },
+        "title": "Design Review Board",
+        "date": "2014-02-20T02:30:00.000Z",
+        "url": "http://www.ci.marina.ca.us/Calendar.aspx?EID=1548"
+    },
+    {
+        "city": {
+            "city": "Marina",
+            "zip": "93933"
+        },
+        "title": "Public Works Commission Meeting",
+        "date": "2014-02-21T02:30:00.000Z",
+        "url": "http://www.ci.marina.ca.us/Calendar.aspx?EID=1582"
+    },
+    {
+        "city": {
+            "city": "Marina",
+            "zip": "93933"
+        },
+        "title": "Planning Commission Meeting",
+        "date": "2014-02-28T02:30:00.000Z",
+        "url": "http://www.ci.marina.ca.us/Calendar.aspx?EID=1562"
+    },
+    {
+        "city": {
+            "city": "Marina",
+            "zip": "93933"
+        },
+        "title": "City Council Meeting",
+        "date": "2014-03-05T01:30:00.000Z",
+        "url": "http://www.ci.marina.ca.us/Calendar.aspx?EID=1514"
+    }
+]
