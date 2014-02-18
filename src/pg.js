@@ -37,6 +37,7 @@ request.post(url, function(err, resp, body) {
     $('.listtable tr').each(function() {
     	if(!this.find('th').length) {
 	    	var meeting = {};
+	    	meeting.city = { city: 'Pacific Grove', zip: '' };
 	    	meeting.title = this.find('td:nth-child(1) a').text();
 	    	meeting.date = new Date(this.find('td:nth-child(2)').text());
 	    	meeting.url = 'http://www.ci.seaside.ca.us/' + this.find('td:nth-child(1) a').attr('href');

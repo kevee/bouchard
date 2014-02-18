@@ -43,6 +43,7 @@ feedparser.on('readable', function() {
   while (item = stream.read()) {
     var title = item.title.split(' - ');
     var meeting = {};
+    meeting.city = { city: 'Monterey County', zip: '' };
   	meeting.title = title[0];
   	meeting.date = new Date(title[1] + ' ' + title[2]);
   	meeting.url = item.link;
